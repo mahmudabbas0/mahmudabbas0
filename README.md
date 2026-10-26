@@ -1,24 +1,57 @@
-<h1 align="center">Hi 👋, I'm MAHMUD ABBAS</h1>
-<h3 align="center">A passionate frontend and Ai developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudabbas0&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudabbas0" /> </p>
+# Mahmud Abbas
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmudabbas0" alt="mahmudabbas0" /></a> </p>
+### Frontend & AI Developer
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+Building web interfaces and exploring practical applications of computer vision.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mahmud-abbas-6324362b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmud-abbas-6324362b0" height="30" width="40" /></a>
-<a href="https://fb.com/mahmodabas.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmodabas.01" height="30" width="40" /></a>
-<a href="https://instagram.com/mahmod_abas963" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahmod_abas963" height="30" width="40" /></a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/mahmud-abbas-6324362b0/) · [Projects](https://github.com/mahmudabbas0?tab=repositories) · [About & stack](#tech-stack)
 
-<h3 align="left">Languages and Tools:</h3>
- <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/376332/laravel.svg" alt="laravel" width="40" height="40"/> </a> 
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudabbas0&show_icons=true&locale=en&layout=compact" alt="mahmudabbas0" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmudabbas0&show_icons=true&locale=en" alt="mahmudabbas0" /></p>
+## About me
 
+I'm a developer with interests in frontend development, AI, and computer vision. My projects span web applications, image processing, and visual recognition.
+
+- **Web development:** frontend interfaces and applications with PHP and Laravel.
+- **AI & computer vision:** Python projects involving images, video, and recognition.
+- **Project portfolio:** a mix of web development work and hands-on technical experiments.
+
+## Selected projects
+
+| Project | Overview |
+| :--- | :--- |
+| [Sign Language Recognition](https://github.com/mahmudabbas0/multi-Sign-Language-Recognition) | A sign language recognition project. [Watch the demo](https://www.youtube.com/shorts/4qKwc0sNxDc). |
+| [License Plate Detection](https://github.com/mahmudabbas0/Plate-Detection) | Detects Russian license plates in a webcam feed with Python and OpenCV, with an option to save detected regions. |
+| [Laravel + React](https://github.com/mahmudabbas0/laravel-react-Full-stack) | A full-stack web development project combining Laravel and React. |
+
+[Explore all public repositories →](https://github.com/mahmudabbas0?tab=repositories&type=public)
+
+## Tech stack
+
+Technologies and tools I work with across my projects:
+
+| Area | Technologies |
+| :--- | :--- |
+| Web development | React · Bootstrap · PHP · Laravel |
+| AI & computer vision | Python · OpenCV · PyTorch · TensorFlow · scikit-learn |
+| Data analysis & visualization | pandas · Seaborn · MATLAB |
+| Databases | MySQL · Microsoft SQL Server |
+| Programming & tools | C · C++ · Java · Linux · Postman · Arduino |
+
+## Connect
+
+For professional connections and conversations about web development, AI, or computer vision:
+
+**[Connect on LinkedIn](https://www.linkedin.com/in/mahmud-abbas-6324362b0/)**
+
+You can also find me on [Instagram](https://www.instagram.com/mahmod_abas963/) and [Facebook](https://www.facebook.com/mahmodabas.01).
+
+---
+
+<div align="center">
+  <sub>Web development · Artificial intelligence · Computer vision</sub>
+</div>
